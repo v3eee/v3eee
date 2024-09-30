@@ -3,7 +3,7 @@
    
 <pre>
   <code>
-  [vee@github ~] $ Hi i'm vee!
+  [vee@github ~] $ Hi i'm vee! 👋
   [vee@github ~] $ neofetch
     
       .--.      ----------------------
